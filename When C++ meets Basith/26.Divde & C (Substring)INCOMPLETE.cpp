@@ -6,8 +6,8 @@ int newbie(string a,string b){
 		cout<<b<<" ";
 		return 0;
 	}
-	string c = "a" ;
-	b = b.append(c);
+	string c = ;
+	b = b.append();
 	a.pop_back();
 	
 	newbie(a,b);
