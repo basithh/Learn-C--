@@ -1,0 +1,9 @@
+1
+11
+121
+1331
+14641
+#ifndef ONLINE_JUDGE
+    freopen("input.txt", "r", stdin);
+    freopen("output.txt", "w", stdout);
+#endif
